@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>An Approach to Artificial General Intelligence</title>
 </head>
 <body>
   <h1>An Approach to Artificial General Intelligence</h1>
@@ -42,6 +41,13 @@
   <ul>
     <li><a href="https://www.kaggle.com/mokinjay/llm-test/edit">Basics of: Bert, GPT-2, Roberta, Electra :: Applications & code</a></li>
     <li><a href="https://arxiv.org/pdf/1908.07873">Federated Learning</a></li>
+     <li><a href="https://arxiv.org/pdf/1911.01547">On Measure Of Intelligence</a></li>
+    <li><a href="https://redirect.cs.umbc.edu/courses/471/papers/turing.pdf">Computing Machinery and Intelligence</a></li>
+    <b>Books</b>
+    <li>Life 3.0: Being Human in the Age of Artificial Intelligence By: Max Tegmark</li>
+    <li> Thinking Fast and Slow By: Danial Kahneman</li>
+    <li>Reinforcement Learning: By Sutton and Barto</li>
+    <li>Artifical Intelligence: A modern Approach By Russel and Norvig</li>
   </ul>
 </body>
 </html>
